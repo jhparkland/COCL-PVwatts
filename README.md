@@ -1,2 +1,2 @@
 # COCL-PVwatts
-NREL PVwatts based custom pvwattas API
+Visualization of classroom, lecture name, current time, power usage information, carbon emission information, etc.
