@@ -24,7 +24,7 @@
 - 전력 생산 예측에서 PVWatts 모듈은 지정된 명판 DC가 있는 DC 전력을 계산하여 시스템 사양 및 시간당 복사조도를 기반으로 시간당 전력 출력량을 계산한다.<br>
 ![NREL_PVWawtts](https://github.com/Prcnsi/COCL-PVwatts/assets/86015194/1360c104-6424-4fcb-9b7e-da7bc5938ce6)
 
-<br><br><br>
+<br><br>
 
 ## 참여 신청 방법
 1. issues 탭 클릭
