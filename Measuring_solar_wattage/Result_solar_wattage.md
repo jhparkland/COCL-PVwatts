@@ -1,5 +1,5 @@
 # 태양광 전력량 측정 결과
-https://pvwatts.nrel.gov/index.php 장소의 주소과 위치를 입력하여 나온 결과입니다.
+https://pvwatts.nrel.gov/index.php 에서 원하는 장소의 주소와 위치를 입력하여 나온 결과입니다.
 
 ##
 1. 결과값(예측된 태양광 전력량)이 출력됩니다.
