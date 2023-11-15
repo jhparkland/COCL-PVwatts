@@ -8,7 +8,7 @@ class FirebaseManager:
     def __init__(self):
         # Firebase database init
         self.config = {
-                        'apiKey': "AIzaSyAxvTHhN2YlDSa9qsF65kP2pGZjnREe-Rs",
+                        'apiKey': "",
                         'authDomain': "cocl-pvwatts.firebaseapp.com",
                         'databaseURL': "https://cocl-pvwatts-default-rtdb.asia-southeast1.firebasedatabase.app",
                         'serverAccount' : "",
