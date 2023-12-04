@@ -1,13 +1,13 @@
 # COCL-PVwatts
-Custom pvwattas API based on NREL PVwatts
+Custom PVwatts API based on NREL PVwatts
 
 - [x] 태양광 전력량 데이터를 firebase와 연동하여 realtime DB 저장
 - [x] 태양광 전력량 데이터 및 위치 데이터를 호출하는 callback 함수 작성
 - [x] 시간별 태양광 전력량 그래프 (x축: 시간, y축: 태양광 전력량) layout 구성
-- [ ] smart plug를 통해 컴퓨터의 전체 전력 측정
+- [x] smart plug를 통한 컴퓨터의 전체 전력량 측정
 
 ## 프로젝트 목표
-본 프로젝트는 Custom pvwattas API based on NREL PVwatts 기반으로 캠퍼스 내 건물별 옥상에서 생산되는 전력량과 탄소감축량을 측정해서 캠퍼스 Net-Zero화에 필요한 정밀하게 측정하고 분석합니다.
+본 프로젝트는 Custom PVwatts API based on NREL PVwatts 기반으로 캠퍼스 내 건물별 옥상에서 생산되는 전력량과 탄소감축량을 측정해서 캠퍼스 Net-Zero화에 필요한 정밀하게 측정하고 분석합니다.
 
 1. NREL PVwatts API의 데이터 명세를 분석 (https://developer.nrel.gov/docs/solar/pvwatts/v6/), https://www.haezoom.io/api/를 이용한 시간당 분석도 가능 (다만 베타테스팅)
 2. 동아대학교 건물별 옥상에 태양광 설치시 생산되는 전력량을 1년, 월별, 24시간 기준으로 나누어 캠퍼스 내에서 생산할 수 있는 전력 생산량과 탄소 감축량 측정.
